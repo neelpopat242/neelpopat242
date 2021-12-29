@@ -5,9 +5,11 @@
 
 ![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelpopat242&show_icons=true&theme=radical)
 
-#[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelpopat242)](https://github.com/anuraghazra/github-readme-stats)
+#
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelpopat242)](https://github.com/anuraghazra/github-readme-stats)
 
-#Interested Frameworks
+#
+Interested Frameworks
 
 
 #
