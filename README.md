@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelpopat242&label=Profile%20views&color=0e75b6&style=flat" alt="neelpopat242" /> </p>
 
-- 🌱 I’m currently learning **MERN **
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **neelpopat242@gmail.com**
 
