@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **neelpopat242@gmail.com**
 
+-  📫 <a target="_blank" href="https://drive.google.com/file/d/1OMxwyROj8uxfR8h4yiJM6Pkybjh8N-j8/view?usp=sharing">
+      <img src="https://img.shields.io/badge/Resume-Neel-blue">
+  </a>   
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neelpopat10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neelpopat10" height="30" width="40" /></a>
