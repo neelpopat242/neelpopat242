@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **neelpopat242@gmail.com**
 
--  📫 <a target="_blank" href="https://drive.google.com/file/d/1OMxwyROj8uxfR8h4yiJM6Pkybjh8N-j8/view?usp=sharing">
+- <a target="_blank" href="https://drive.google.com/file/d/1OMxwyROj8uxfR8h4yiJM6Pkybjh8N-j8/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-Neel-blue">
   </a>   
 
