@@ -1,67 +1,71 @@
-# Hi there, I'm Neel Popat 👋
+<div align="center">
 
-## 🚀 Software Engineer | Full Stack Developer
+# Neel Popat
 
-I'm a passionate software engineer at **TWC**, specializing in building scalable full-stack applications with modern technologies. I love creating efficient, user-centric solutions and exploring new technologies.
+**Backend Engineer** · Building resilient systems that scale
 
-### 🔭 Currently Working On
-- Building full-stack applications at TWC
-- Exploring cloud architecture patterns
-- Contributing to open-source projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-thetaazakhabar.com-DA7756?style=flat-square&logoColor=white)](https://thetaazakhabar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neelpopat242-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelpopat242)
+[![LeetCode](https://img.shields.io/badge/LeetCode-neelpopat242-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/neelpopat242)
+[![Email](https://img.shields.io/badge/Email-neelpopat.exp@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neelpopat.exp@gmail.com)
 
-### 🌱 What I'm Learning
-- Advanced cloud architectures (GCP/Azure)
-- Microservices patterns
-- Performance optimization techniques
+</div>
 
-## 🛠️ Tech Stack
+---
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### About
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+Backend engineer at **The Wedding Company (YC W'21)** — I design and build payment orchestration layers, financial ledgers, data pipelines, and microservices that handle real-world scale. I care about clean architecture, system reliability, and shipping code that works.
 
-### Database & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+```
+$ whoami
+→ Backend Engineer · Bengaluru, India
+→ B.Tech CS · Ahmedabad University '23
+→ Systems thinker · API designer · Problem solver
+```
 
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### What I've Built
 
+| Project | What it does | Impact |
+|---------|-------------|--------|
+| **Payment Orchestration** | Unified gateway layer (Juspay, Razorpay, DBS) with adapter/strategy patterns | Idempotent workflows, retry/backoff logic |
+| **Financial Ledger** | Double-entry ledger + reconciliation service | Immutable audit trails, daily reconciliation |
+| **Venue Forecasting** | Data pipeline predicting venue availability | **93% accuracy**, replaced manual calling |
+| **Proposal Automation** | Auto-generated proposals via Canva APIs | **~10s** generation (was 24–48h), **800+/day** |
+| **CI/CD Pipelines** | Jenkins pipelines for backend + frontend | **90%** deployment time reduction |
+| **[Arthneeti](https://github.com/neelpopat242)** | AI stock analytics over 2000+ companies | RAG + LLM over 5,000+ earnings-call PDFs |
 
+---
 
-## 🤝 Let's Connect!
+### Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelpopat242)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/neelpopatai)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neel_p0pat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelpopat242@gmail.com)
+```
+Languages      Python · C++ · JavaScript
+Frameworks     Django · FastAPI · Next.js
+Databases      PostgreSQL · MongoDB · Redis
+Infrastructure AWS · GCP · Docker · Jenkins
+Practices      System Design · CI/CD · API Design · Observability
+```
+
+---
+
+### Highlights
+
+- 🏆 **Best Fintech Hack** — Ingenious Hackathon 2022
+- 🎤 **Web Dev Seminar** — 210+ students at Ahmedabad University
+- 📈 Improved lead-to-meeting conversion from **40% → 58%**
+- 💰 Reduced CDN costs by **40%** with serverless media compression
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neelpopat242&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neelpopat242&show_icons=true&theme=default&hide_border=true&bg_color=FAF9F6&title_color=DA7756&icon_color=DA7756&text_color=1A1A1A" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=neelpopat242&theme=default&hide_border=true&background=FAF9F6&ring=DA7756&fire=DA7756&currStreakLabel=DA7756&sideLabels=1A1A1A&dates=5C5C5C" height="165" />
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/neelpopat242">neelpopat242</a></i>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=neelpopat242&label=views&color=DA7756&style=flat-square" />
 </div>
