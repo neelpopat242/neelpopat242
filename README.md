@@ -4,7 +4,7 @@
 
 **Backend Engineer** · Building resilient systems that scale
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thetaazakhabar.com-DA7756?style=flat-square&logoColor=white)](https://thetaazakhabar.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thetaazakhabar.com-DA7756?style=flat-square&logoColor=white)]([https://neelpopat-portfolio.vercel.app/](https://neelpopat-portfolio.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neelpopat242-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neelpopat242)
 [![LeetCode](https://img.shields.io/badge/LeetCode-neelpopat242-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/neelpopat242)
 [![Email](https://img.shields.io/badge/Email-neelpopat.exp@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neelpopat.exp@gmail.com)
