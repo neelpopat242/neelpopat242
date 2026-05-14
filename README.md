@@ -15,7 +15,7 @@
 
 ### About
 
-Backend engineer at **The Wedding Company (YC W'21)** — I design and build payment orchestration layers, financial ledgers, data pipelines, and microservices that handle real-world scale. I care about clean architecture, system reliability, and shipping code that works.
+Backend engineer at **Betterhalf.ai (YC W'21)** — I design and build payment orchestration layers, financial ledgers, data pipelines, and microservices that handle real-world scale. I care about clean architecture, system reliability, and shipping code that works.
 
 ```
 $ whoami
